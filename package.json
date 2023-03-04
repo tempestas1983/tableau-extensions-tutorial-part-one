@@ -1,0 +1,9 @@
+{
+  "name": "tableau_extension_learning",
+  "version": "1",
+  "description": "practice",
+  "main": "test",
+  "repository": "pt_one",
+  "author": "Steffen Volkerding <volkerding@gmx.net>",
+  "license": "MIT"
+}
